@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* App.css */
+.standard-image-width {
+  width: 0px; /* Set your desired width */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; 
+}
